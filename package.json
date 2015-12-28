@@ -1,0 +1,26 @@
+{
+  "name": "braincest",
+  "version": "0.0.1",
+  "description": "Quantifying idea insularity within the cognitive sciences",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/cbattista/braincest"
+  },
+  "keywords": [
+    "node",
+    "cognition",
+    "neo4j",
+    "science"
+  ],
+  "author": "Christian Battista",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.3",
+    "neo4j": "^1.1.1",
+    "node-ncbi": "0.0.3"
+  }
+}
